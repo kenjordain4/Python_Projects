@@ -1,0 +1,51 @@
+date,category,description,amount
+2024-01-01,Food,Groceries,-45.50
+2024-01-02,Transport,Bus pass,-20.00
+2024-01-03,Salary,January salary,2500.00
+2024-01-04,Food,Restaurant,-30.00
+2024-01-05,Entertainment,Movie,-15.00
+2024-01-06,Food,Coffee shop,-6.75
+2024-01-07,Transport,Taxi,-18.00
+2024-01-08,Food,Groceries,-52.30
+2024-01-09,Bills,Phone bill,-40.00
+2024-01-10,Entertainment,Streaming subscription,-12.99
+2024-01-11,Food,Lunch,-14.50
+2024-01-12,Shopping,T-shirt,-25.00
+2024-01-13,Food,Pizza,-22.00
+2024-01-14,Transport,Bus ticket,-10.00
+2024-01-15,Income,Freelance work,150.00
+2024-01-16,Food,Groceries,-38.75
+2024-01-17,Health,Pharmacy,-17.80
+2024-01-18,Entertainment,Concert ticket,-60.00
+2024-01-19,Food,Breakfast,-9.25
+2024-01-20,Transport,Gas,-35.00
+2024-01-21,Food,Restaurant,-42.00
+2024-01-22,Bills,Internet bill,-55.00
+2024-01-23,Shopping,Books,-28.50
+2024-01-24,Food,Groceries,-47.20
+2024-01-25,Entertainment,Video game,-19.99
+2024-01-26,Food,Snacks,-7.40
+2024-01-27,Transport,Bus ticket,-3.50
+2024-01-28,Income,Gift from family,100.00
+2024-01-29,Food,Lunch,-13.00
+2024-01-30,Health,Gym membership,-30.00
+2024-01-31,Food,Groceries,-41.60
+2024-02-01,Salary,February salary,2500.00
+2024-02-02,Food,Restaurant,-36.50
+2024-02-03,Transport,Bus pass,-20.00
+2024-02-04,Entertainment,Movie,-15.00
+2024-02-05,Food,Groceries,-49.90
+2024-02-06,Shopping,Shoes,-65.00
+2024-02-07,Food,Coffee shop,-5.50
+2024-02-08,Bills,Phone bill,-40.00
+2024-02-09,Health,Pharmacy,-12.30
+2024-02-10,Food,Pizza,-24.00
+2024-02-11,Transport,Taxi,-22.50
+2024-02-12,Income,Freelance work,200.00
+2024-02-13,Food,Lunch,-15.25
+2024-02-14,Entertainment,Dinner and movie,-55.00
+2024-02-15,Food,Groceries,-44.10
+2024-02-16,Bills,Internet bill,-55.00
+2024-02-17,Transport,Gas,-33.00
+2024-02-18,Food,Breakfast,-8.75
+2024-02-19,Shopping,Gift,-20.00
